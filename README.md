@@ -20,6 +20,10 @@ Add your library at <https://github.com/Apostolique/MonoGameLibraries/>.
   * `An open-source re-implementation of the XNA 4.0 Framework.`
   * <https://github.com/kniEngine/kni>
 
+* **XnaFiddle.NET**
+  * `Online code editor for MonoGame with live compilation, samples, and shareable snippets.`
+  * <https://xnafiddle.net>
+
 * **MonoGame.Extended**
   * `Extensions to make MonoGame more awesome.`
   * <https://github.com/craftworkgames/MonoGame.Extended>
